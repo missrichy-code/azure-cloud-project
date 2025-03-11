@@ -31,4 +31,4 @@ Review and create
 then go to your MING
 Type  ssh azureuser@public IP Address
 Then put your password 
-With this yiuve created a server 
+With this you've created a server 
